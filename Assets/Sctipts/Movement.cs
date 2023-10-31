@@ -7,6 +7,8 @@ public class Movement : MonoBehaviour
     [SerializeField] private float speed;
     Vector2 moveInput;
     Rigidbody2D rb;
+    public GameObject SemillaPrefab;
+    public Transform PuntoDePlantacion;
 
 
     private void Start()
@@ -19,5 +21,16 @@ public class Movement : MonoBehaviour
         moveInput.y = Input.GetAxis("Vertical");
 
         transform.Translate(moveInput * Time.deltaTime * speed);
+
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            PlantarSemilla();
+        }
+    }
+
+    void PlantarSemilla()
+    {
+        Instantiate(SemillaPrefab, PuntoDePlantacion.position, Quaternion.identity);
+        Debug.Log("¡Semilla Plantada!");
     }
 }
