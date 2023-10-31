@@ -1,10 +1,11 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Dinero : MonoBehaviour
 {
     [SerializeField] public float money;
-    [SerializeField] private Text moneyText;
+    [SerializeField] private TextMeshProUGUI moneyText;
 
     private void Start()
     {

@@ -9,7 +9,7 @@ public class Movement : MonoBehaviour
     Rigidbody2D rb;
     public GameObject SemillaPrefab;
     public Transform PuntoDePlantacion;
-
+    Granja granja;
 
     private void Start()
     {
