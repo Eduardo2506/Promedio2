@@ -33,4 +33,5 @@ public class Movement : MonoBehaviour
         Instantiate(SemillaPrefab, PuntoDePlantacion.position, Quaternion.identity);
         Debug.Log("¡Semilla Plantada!");
     }
+
 }
