@@ -20,9 +20,9 @@ public class Client : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player") && concliente)
+        if (collision.CompareTag("Player") && !concliente)
         {
-            Debug.Log("Te alegaste del comprador");
+            Debug.Log("Te alejaste del comprador");
             concliente = true;
         }
     }
