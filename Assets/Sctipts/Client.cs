@@ -12,7 +12,11 @@ public class Client : MonoBehaviour
             Debug.Log("Te acercaste al comprador");
             concliente = false;
         }
-        if (Input.GetKey(KeyCode.E))
+    }
+
+    private void Update()
+    {
+        if (Input.GetKey(KeyCode.E) && !concliente)
         {
             Debug.Log("Le vendiste marihuana");
         }

@@ -12,7 +12,11 @@ public class Shop : MonoBehaviour
             Debug.Log("Entraste a la tienda");
             entiendita = false;
         }
-        if (Input.GetKey (KeyCode.Q))
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Q) && !entiendita)
         {
             Debug.Log("Compraste semillas");
         }
