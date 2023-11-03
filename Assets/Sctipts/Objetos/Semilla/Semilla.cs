@@ -6,8 +6,6 @@ public class Semilla : MonoBehaviour
     public GameObject plantaPrefab; 
     public float tiempoDeCrecimiento = 5.0f; 
 
-    private bool creciendo = false;
-
     private void Start()
     {
         StartCoroutine(CrecerPlanta());

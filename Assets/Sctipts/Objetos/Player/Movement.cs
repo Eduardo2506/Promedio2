@@ -4,7 +4,7 @@ public class Movement : MonoBehaviour
 {
     [SerializeField] private float speed;
     Vector2 moveInput;
-    Rigidbody2D rb;
+    public Rigidbody2D rb;
     Animator animator;
     SpriteRenderer spriteRenderer;
 
@@ -19,7 +19,7 @@ public class Movement : MonoBehaviour
         moveInput.x = Input.GetAxis("Horizontal");
         moveInput.y = Input.GetAxis("Vertical");
 
-        transform.Translate(moveInput * Time.deltaTime * speed);
+        rb.velocity = new Vector2(moveInput.x * speed, moveInput.y * speed);
 
         bool isWalking = moveInput != Vector2.zero;
 

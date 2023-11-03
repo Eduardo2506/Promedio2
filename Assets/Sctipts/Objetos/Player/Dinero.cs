@@ -5,7 +5,11 @@ using UnityEngine.UI;
 public class Dinero : MonoBehaviour
 {
     public int money = 0;
-    public TextMeshProUGUI moneyText; 
+    public int maxMoney;
+    public TextMeshProUGUI moneyText;
+    public GameObject panelVictoria;
+    public GameObject fondoNegro;
+    public AnimacionesUI anim;
     private void Start()
     {
         ActualizarDineroText();
@@ -36,5 +40,12 @@ public class Dinero : MonoBehaviour
     private void ActualizarDineroText()
     {
         moneyText.text = "" + money.ToString();
+        
+        if (money >= maxMoney)
+        {
+            panelVictoria.SetActive(true);
+            fondoNegro.SetActive(true);
+            anim.AnimacionEntradaWIn();
+        }
     }
 }
