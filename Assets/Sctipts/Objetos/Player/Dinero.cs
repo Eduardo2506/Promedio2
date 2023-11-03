@@ -1,10 +1,11 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Dinero : MonoBehaviour
 {
     public int money = 0;
-    public Text moneyText; 
+    public TextMeshProUGUI moneyText; 
     private void Start()
     {
         ActualizarDineroText();
@@ -34,6 +35,6 @@ public class Dinero : MonoBehaviour
 
     private void ActualizarDineroText()
     {
-        moneyText.text = "Dinero: " + money.ToString();
+        moneyText.text = "" + money.ToString();
     }
 }

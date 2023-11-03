@@ -1,10 +1,11 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Semillas : MonoBehaviour
 {
     public int cantidadSemillas = 0;
-    public Text semillasText;
+    public TextMeshProUGUI semillasText;
     private bool canPlant = false; 
     public GameObject semillaPrefab;
     public Transform puntoPlantacion;
@@ -55,7 +56,7 @@ public class Semillas : MonoBehaviour
 
     void ActualizarSemillasUI()
     {
-        semillasText.text = "Semillas: " + cantidadSemillas.ToString();
+       semillasText.text = "" + cantidadSemillas.ToString();
     }   
 
     private void OnTriggerEnter2D(Collider2D other)

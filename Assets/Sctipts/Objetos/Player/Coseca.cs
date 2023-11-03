@@ -1,10 +1,11 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Coseca : MonoBehaviour
 {
     public int cantidadDeCosecha = 0;
-    public Text cosechaText;
+    public TextMeshProUGUI cosechaText;
     private void Start()
     {
         ActualizarCosechaUI();
@@ -33,6 +34,6 @@ public class Coseca : MonoBehaviour
 
     void ActualizarCosechaUI()
     {
-        cosechaText.text = "Cosecha: " + cantidadDeCosecha.ToString();
+        cosechaText.text = "" + cantidadDeCosecha.ToString();
     }
 }
