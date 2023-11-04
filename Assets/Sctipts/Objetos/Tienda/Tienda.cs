@@ -17,7 +17,7 @@ public class Tienda : MonoBehaviour
         {
             if (cosecha.VenderCosecha(1))
             {
-                dinero.GanarDinero(20);
+                dinero.GanarDinero(40);
             }
         }
     }

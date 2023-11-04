@@ -61,4 +61,14 @@ public class EscenasController : MonoBehaviour
         Time.timeScale = 1f;
         SceneManager.LoadScene("Menu");
     }
+    public void RegresarLore()
+    {
+        teclas.SetActive(false);
+        lore.SetActive(true);
+    }
+    public void RegresarTeclas()
+    {
+        especificaciones.SetActive(false);
+        teclas.SetActive(true);
+    }
 }
