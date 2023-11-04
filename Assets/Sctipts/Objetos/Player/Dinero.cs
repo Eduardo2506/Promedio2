@@ -10,6 +10,7 @@ public class Dinero : MonoBehaviour
     public GameObject panelVictoria;
     public GameObject fondoNegro;
     public AnimacionesUI anim;
+    public GameObject panelPosterior;
     private void Start()
     {
         ActualizarDineroText();
@@ -46,6 +47,12 @@ public class Dinero : MonoBehaviour
             panelVictoria.SetActive(true);
             fondoNegro.SetActive(true);
             anim.AnimacionEntradaWIn();
+
+            Invoke("PanelPosterior", 2F);
         }
+    }
+    private void PanelPosterior()
+    {
+        panelPosterior.SetActive(true);
     }
 }

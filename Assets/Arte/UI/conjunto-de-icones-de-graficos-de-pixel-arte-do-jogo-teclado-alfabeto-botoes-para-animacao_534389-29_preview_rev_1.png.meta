@@ -1,0 +1,1345 @@
+fileFormatVersion: 2
+guid: 12e03b1f728c18649ba0342b88c87ac7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 435
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573ba90613b2f4f4fba025d5dfc75be6
+      internalID: 325120910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 446
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae71c2cc71f7f24996c0b6f2ed04cf5
+      internalID: 1123178559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 437
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ba526c14b708d4d92a2acb5dac248e
+      internalID: 1570763254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 372
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718642b251d31a4b9b2f306577f3a81
+      internalID: 724484554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 372
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2638e1663c6111c43b7f0d8bb7452cbe
+      internalID: 1634378405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 372
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78607464ada82e14c9d77e7f124f42bf
+      internalID: 2038743292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 372
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d46bc3f8dcb64f8e2d316a5a91558
+      internalID: -170323930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 372
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82aabd5e6c84c84a8572afc003fc9ad
+      internalID: 805326011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 372
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1cf3e61cadd5d4d8e0afb9f1be6938
+      internalID: -1429088013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_9
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 372
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceefd775de5bd64fbf3ffb3b195c4a9
+      internalID: 842400046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 372
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aa0bb5c81404f4f8592d642a827a4e
+      internalID: 1661379650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 322
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c585c5635e9c91b49a951dbd6b868f20
+      internalID: -1308962214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 322
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abae7524525039b4d92691550c4fcaf3
+      internalID: -31479490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 322
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6002d70cb12084ea572bfb643805f3
+      internalID: 655288582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 322
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e6e1aee2ca22a49a9619e7f77afd14
+      internalID: -837435067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 322
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12ff105ac4d494d84551aa971ad99f
+      internalID: -1619795186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 322
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b34a6441683c447a66daa7777c272e
+      internalID: -1251275329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 322
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf864fd8647eee04d8991db1b32a23f8
+      internalID: -2058153933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 322
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340b70c1dc663da46993992a939e3302
+      internalID: 906631965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 271
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd10214c13b3fa4693aa7d0cbbee248
+      internalID: -1259597316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 271
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d743daa4d418d47bad2c32ee5f59c8
+      internalID: 73729503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 271
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c3baad60c57344c9ccd98300fa3c75
+      internalID: 552033543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 271
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f10361a3830cf4b95cde970fa85ef8
+      internalID: -799921607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 271
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478e276884d1e474ebb9d0b7717f218a
+      internalID: -1380434675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 271
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6648ead5c85a246b380e00c4f0bdf3
+      internalID: -850418507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_25
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 271
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2e62d00ec7f346bc50fbbbfd3132f
+      internalID: 2099139151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 271
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac86fb7d3133f24a88353380fc7d182
+      internalID: -1616354763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 221
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a13e904b2fb9ef4d9b58c61a0883470
+      internalID: 1664880931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 221
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0243601c10ada94e9f90ead465a2dea
+      internalID: -1815585017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 162
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e1dca94bc46647be9225c6ebd40e0
+      internalID: 373312467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 162
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaab2b8a803aff4f8bc6debc9457c72
+      internalID: -597318508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 162
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b956ca24867ff4ea7007e586767308
+      internalID: -32160789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 162
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22cfb30a93b96e4099039cec00bf763
+      internalID: 899522365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 162
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da91da2c72900b41bf133b398b158fe
+      internalID: 1110590683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 162
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7151b3ad27e0d0040b7498dd58d1756e
+      internalID: -1497395532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 162
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26560ef2a6629524c9442b4bd5934bdb
+      internalID: -1887088639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 162
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f07291e5f87246b13abbf6851df11
+      internalID: 1610034820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 116
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11dd1de38253a5419b82708b61d409b
+      internalID: 85408887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 116
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce65bf81e7d444a86e0d705e3a09d6
+      internalID: 1778273298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 116
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1176daddc891ae4488fa934187f8002a
+      internalID: -911301271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 116
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a9eed40c0352f41addf64de56d64ce
+      internalID: -378624797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 116
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f3f740bb39504eab208eadcc6ec05
+      internalID: 1686653796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 116
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef34ff76811134d4e8f139d5b02365a2
+      internalID: 353944643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 116
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c8b683c6467924d98d09f1f24bb781
+      internalID: -378237822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 116
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efcdb8609c80f8428e0cf442084934b
+      internalID: -1939691445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 70
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9df77fb96eb03741ba90670cd127f34
+      internalID: 696406454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 70
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7701ba69faef97548980bee5901b3fb8
+      internalID: -1069432875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 70
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24687685149dda4b9bf9f584975eb72
+      internalID: 1871301336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50446e1f3094f964ca4bea6826891e1c
+      internalID: -1722136420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 70
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf813b03d57863448faf39472cd3245
+      internalID: -2067717485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_50
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 70
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4489ae1aa6c08384faea89e0d6deaff8
+      internalID: 995338744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_51
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 70
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739b4124bcacb749ade9b4e093f2108
+      internalID: -1813545857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_52
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 70
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc298e27d281c54aa722ab10b1226d0
+      internalID: 1258580350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 23
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eae9fc986ac36b43a76f6c8bc226442
+      internalID: 1256504040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 23
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f605ccb605af5b46893aacd977796a0
+      internalID: 458079615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_0: 325120910
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_1: 1123178559
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_10: 1661379650
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_11: -1308962214
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_12: -31479490
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_13: 655288582
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_14: -837435067
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_15: -1619795186
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_16: -1251275329
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_17: -2058153933
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_18: 906631965
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_19: -1259597316
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_2: 1570763254
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_20: 73729503
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_21: 552033543
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_22: -799921607
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_23: -1380434675
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_24: -850418507
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_25: 2099139151
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_26: -1616354763
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_27: 1664880931
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_28: -1815585017
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_29: 373312467
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_3: 724484554
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_30: -597318508
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_31: -32160789
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_32: 899522365
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_33: 1110590683
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_34: -1497395532
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_35: -1887088639
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_36: 1610034820
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_37: 85408887
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_38: 1778273298
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_39: -911301271
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_4: 1634378405
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_40: -378624797
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_41: 1686653796
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_42: 353944643
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_43: -378237822
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_44: -1939691445
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_45: 696406454
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_46: -1069432875
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_47: 1871301336
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_48: -1722136420
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_49: -2067717485
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_5: 2038743292
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_50: 995338744
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_51: -1813545857
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_52: 1258580350
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_53: 1256504040
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_54: 458079615
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_6: -170323930
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_7: 805326011
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_8: -1429088013
+      conjunto-de-icones-de-graficos-de-pixel-arte-do-jogo-teclado-alfabeto-botoes-para-animacao_534389-29_preview_rev_1_9: 842400046
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

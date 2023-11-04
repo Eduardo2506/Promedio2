@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 6584b0bf8abb47d4d83cb98d432c722f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 431
+        width: 85
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05732e83e88a404499d4c67eaa182ca2
+      internalID: -1181333959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 439
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10067990a7d104ea09cb58f2246503
+      internalID: 1225629358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 432
+        width: 85
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc12dffde2664e4a8af2034505a20a7
+      internalID: 1089932508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 371
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf10dfdfcef3e6448d9cc13b2eccd8e
+      internalID: 96505731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 371
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461ccf3e518bfd04ab166a0a5096c422
+      internalID: 455371854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 371
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9b48dc432e68d49b45dc3899c889a5
+      internalID: 723780711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 371
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a7aa4693f67844eae561b0553e04dd
+      internalID: 1681916135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 371
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3a13ced6c0bfe43ac1cb6581f6f882
+      internalID: 1429046184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 322
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25110b68e9d76ef46bef352c0db76c1c
+      internalID: -1912754246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 322
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cd8727a900ac84aa3c6f93c2e4c633
+      internalID: 428647945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 322
+        width: 143
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d6db9b6878ba2469ebbe5a07b47b58
+      internalID: -442171104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 275
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f6086113f002469c5e0dbc1bd4bde
+      internalID: 60875345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 239
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2694f98c10d3e5040bd1ea785e50a0d1
+      internalID: -1551551194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 239
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe8a3145f10c647a9261435261bf95
+      internalID: -1477321747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 238
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67446fc0416aa84da88e2ebd88fefa4
+      internalID: 1279763930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 166
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9fa464aab9d6648a4cc83fb748e30a
+      internalID: 1870712804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 166
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab026af4844bb84ea1a1b0c4e934e51
+      internalID: -91860225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 166
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7cdcc3922858d409ad49b32d689b6e
+      internalID: -516862565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 166
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e291580d11d435247b4d4c74dacedc2f
+      internalID: 1105084689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 166
+        width: 69
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778aaf052d8eda145980f0711b4de6f7
+      internalID: -288365087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 117
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2e2715310569d4d92db6f9aa13674f
+      internalID: -1082751542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 117
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ae697a915b62b42b92d775a42b8688
+      internalID: 1682716247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 117
+        width: 143
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50575784045e61f4989d64837af48b92
+      internalID: -1407268077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 71
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93654ba1d6e9d484ebb5a14dbc8df071
+      internalID: -542370283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 34
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff02f153c1748498a63d04e648e40b
+      internalID: 1392135212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 34
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c8cc577c779244896e8010d539d0d
+      internalID: -131278708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 34
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b16bc2b6ab703b44a58329ae7aa133a
+      internalID: 748513060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_0: -1181333959
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_1: 1225629358
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_10: -442171104
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_11: 60875345
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_12: -1551551194
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_13: -1477321747
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_14: 1279763930
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_15: 1870712804
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_16: -91860225
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_17: -516862565
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_18: 1105084689
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_19: -288365087
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_2: 1089932508
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_20: -1082751542
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_21: 1682716247
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_22: -1407268077
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_23: -542370283
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_24: 1392135212
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_25: -131278708
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_26: 748513060
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_3: 96505731
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_4: 455371854
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_5: 723780711
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_6: 1681916135
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_7: 1429046184
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_8: -1912754246
+      ensemble-icones-graphiques-pixels-art-du-jeu-boutons-du-clavier-pour-animation_534389-31_preview_rev_1_9: 428647945
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
